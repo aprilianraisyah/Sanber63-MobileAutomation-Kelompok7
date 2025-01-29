@@ -1,2 +1,3 @@
 # Sanber63-MobileAutomation-Kelompok7
-Mobile Automation Using Robot Framework
+Kelompok 7 Mobile Automation :
+Aprilia Noor A'isyah - Fitur Sign in
