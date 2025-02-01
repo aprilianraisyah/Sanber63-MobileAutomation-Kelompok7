@@ -1,0 +1,4 @@
+locators:
+  MENU_BUTTON: "xpath=//android.widget.Button[@content-desc='Menu']"
+  LOGOUT_BUTTON: "xpath=//android.widget.Button[@text='Logout']"
+  LOGIN_PAGE: "xpath=//android.widget.TextView[@text='Login']"
